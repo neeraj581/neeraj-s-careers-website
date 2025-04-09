@@ -1,2 +1,2 @@
-# neeraj-s-careers-website
-A careers Website for me 
+# jovian-careers-website
+A careers Website for Jovian
